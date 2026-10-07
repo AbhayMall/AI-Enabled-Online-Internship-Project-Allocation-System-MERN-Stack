@@ -1,0 +1,16 @@
+{
+  "name": "ai-internship-allocation-system",
+  "version": "1.0.0",
+  "description": "AI-Enabled Online Internship and Project Allocation System — MERN Stack",
+  "scripts": {
+    "server": "cd server && npm start",
+    "server:dev": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "test:backend": "cd server && npm test",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": ["mern", "ai-matching", "internship-allocation", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
